@@ -5,7 +5,7 @@
    C:\Users\matth\OneDrive\Documents\swe3643-fall2024-homework\homework-2\diagram.JPG
 2. Converted Pseudocode to Operational Code
    *Converted the pseudocode to operational, well-structured Java*
-   C:\Users\matth\OneDrive\Documents\swe3643-fall2024-homework\homework-2\hw2code.txt
+   C:\Users\matth\OneDrive\Documents\swe3643-fall2024-homework\homework-2\pseudocode.txt
 3. Wrote Unit Tests
    *Wrote 11 JUnit5 unit tests and achieved 100% coverage of every branch*
 4. Performed Coverage Analysis
